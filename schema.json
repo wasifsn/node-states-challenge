@@ -1,0 +1,11 @@
+{
+  "state_code": "27",
+  "state": "Maharashtra",
+  "districts": [
+    {
+      "district": "Ahmadnagar",
+      "district_code": "26",
+      "towns": [{ "town": "Ahmadnagar", "urban_status": "M" }]
+    }
+  ]
+}
