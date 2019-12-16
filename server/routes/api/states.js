@@ -24,8 +24,8 @@ router.get("/state", async (req, res) => {
         district_code: district1.district_code || null
       });
     }
-    res.send(data);
-    // res.send(distData);
+    //res.send(data);
+      res.send(distData);
   } catch (err) {
     console.log(`this is the error ${err}`);
     res.send({
